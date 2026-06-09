@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Muhemmed%20Rafi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Product%20Developer%20%26%20UI%2FUX%20Enthusiast&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+![Header](./github-header-banner.png)
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Muhammedrafi123">
