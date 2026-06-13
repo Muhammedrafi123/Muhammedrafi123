@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=18,213%2B+PROFILE+VIEWS;FULL+STACK+DEVELOPER;AI+AUTOMATION+ENGINEER;BUILDING+THE+FUTURE" />
 </p>
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Muhammedrafi123">
-    <img src="https://komarev.com/ghpvc/?username=Muhammedrafi123&label=Profile%20views&color=00FFFF&style=flat-square" alt="Muhammedrafi123's profile views+1000" />
   </a>
 </p>
 
