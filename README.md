@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Muhemmed Rafi — Full-stack developer" />
+<img src="hero.svg" width="100%" alt="Muhemmed Rafi — Full-stack developer" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="./assets/metrics.svg" width="100%" alt="Profile metrics" />
+<img src="metrics.svg" width="100%" alt="Profile metrics" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="./assets/focus.svg" width="100%" alt="Focus areas" />
+<img src="focus.svg" width="100%" alt="Focus areas" />
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="./assets/stack.svg" width="100%" alt="Tech stack" />
+<img src="stack.svg" width="100%" alt="Tech stack" />
 
 </div>
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="Let's build something great" />
+<img src="footer.svg" width="100%" alt="Let's build something great" />
 
 <br/><br/>
 
