@@ -1,204 +1,144 @@
-<div align="center">
+# Header Banner
 
-<img src="./github-header-banner.png" width="100%" />
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=18&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=INITIALIZING+SYSTEM...;LOADING+IDENTITY...;LOADING+MISSION...;SYSTEM+READY" />
-
-</div>
+(Keep your custom banner)
 
 ---
 
 <div align="center">
 
-# MUHAMMED RAFI
+# Muhammed Rafi
 
-### Product Engineer • Systems Builder • AI Automation
+### Building software, systems, and leverage.
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%">
+---
 
-### STATUS
+## Current State
 
 ```text
-ONLINE
+Location      Kerala, India
+
+Focus         AI Systems
+              Automation
+              SaaS
+
+Building      Vellmont
+
+Status        Shipping
+
+Mission       Create software that scales
+              beyond direct effort.
 ```
-
-### LOCATION
-
-```text
-KERALA, INDIA
-```
-
-### BUILDING
-
-```text
-VELLMONT
-```
-
-### MODE
-
-```text
-SHIPPING
-```
-
-</td>
-
-<td width="50%">
-
-### FOCUS
-
-```text
-AI SYSTEMS
-AUTOMATION
-SAAS
-PRODUCTS
-```
-
-### OBJECTIVE
-
-```text
-Create leverage
-through software.
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
-## SIGNAL
-
-```text
-People build applications.
+## What I Actually Do
 
 I build systems.
 
-Applications solve tasks.
+Sometimes those systems are web applications.
 
-Systems continue creating value.
+Sometimes they are automation pipelines.
 
-The objective is not more code.
+Sometimes they are AI workflows.
 
-The objective is leverage.
-```
+The technology changes.
+
+The objective doesn't.
+
+Create leverage.
+Reduce friction.
+Compound value.
 
 ---
 
-## CURRENT VECTOR
+## Active Projects
+
+### Vellmont
+
+Building products around automation,
+AI infrastructure, and business systems.
+
+### Experimental Lab
+
+Current research areas:
+
+* Multi-Agent Systems
+* Lead Generation Automation
+* Workflow Intelligence
+* AI Assisted Operations
+
+---
+
+## Philosophy
 
 ```text
-2022 ─ Learning
+BUILD > TALK
 
-2023 ─ Freelancing
+SYSTEMS > EFFORT
 
-2024 ─ Product Design
+DISTRIBUTION > FEATURES
 
-2025 ─ Automation
+COMPOUNDING > INTENSITY
 
-2026 ─ AI Systems
-
-2030 ─ ?
+EXECUTION > IDEAS
 ```
 
 ---
 
-## SYSTEM MAP
+## Stack
+
+Frontend
+
+* React
+* Next.js
+* TypeScript
+
+Backend
+
+* Node.js
+* Express
+
+Data
+
+* PostgreSQL
+* MySQL
+
+Infrastructure
+
+* Git
+* Linux
+* Cloud Platforms
+
+---
+
+## Current Direction
 
 ```text
-                    ┌──────────────┐
-                    │    VISION    │
-                    └──────┬───────┘
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
+2022  Learning
 
-     AI Systems      Automation       SaaS Products
+2023  Freelancing
 
-          │                │                │
+2024  Product Thinking
 
-          └────────┬───────┴───────┬────────┘
-                   │               │
+2025  Automation
 
-                   ▼               ▼
+2026  AI Systems
 
-             Business Ops    Lead Gen Systems
-
-                           │
-
-                           ▼
-
-                    Scalable Assets
+2030  ?
 ```
 
 ---
 
-## ACTIVE MISSIONS
+## Connect
 
-| Mission                   | Status      |
-| ------------------------- | ----------- |
-| AI Workflows              | 🟢 Active   |
-| SaaS Products             | 🟢 Active   |
-| Automation Infrastructure | 🟢 Active   |
-| Multi-Agent Systems       | 🧪 Research |
+LinkedIn
 
----
+Website
 
-## ENGINEERING
-
-```text
-FRONTEND
-├── React
-├── Next.js
-├── TypeScript
-
-BACKEND
-├── Node.js
-├── Express
-
-DATA
-├── PostgreSQL
-├── MySQL
-├── SQLite
-
-TOOLS
-├── Git
-├── Linux
-├── Figma
-```
+Email
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammedrafi123&show_icons=true&hide_border=true&theme=transparent" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammedrafi123&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-## TRANSMISSION
-
-> Building systems that continue working when I am offline.
-
----
-
-<div align="center">
-
-<a href="https://vellmont.online">Website</a> • <a href="mailto:mohammadrafi1291@gmail.com">Email</a> • <a href="https://linkedin.com/in/muhemmed-rafi-kc-216850359">LinkedIn</a>
-
-</div>
-
----
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-</p>
+> Building things that continue working when I'm asleep.
