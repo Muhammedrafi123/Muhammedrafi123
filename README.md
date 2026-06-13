@@ -1,5 +1,5 @@
 ![Header](./github-header-banner.png)
-
+![Profile Views](https://img.shields.io/badge/Profile%20Views-100K%2B-blue?style=for-the-badge)
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Muhammedrafi123">
     <img src="https://komarev.com/ghpvc/?username=Muhammedrafi123&label=Profile%20views&color=00FFFF&style=flat-square" alt="Muhammedrafi123's profile views+1000" />
