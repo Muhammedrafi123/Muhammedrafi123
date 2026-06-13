@@ -1,0 +1,39 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ctaBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#15151D"/>
+      <stop offset="100%" stop-color="#0F0F15"/>
+    </linearGradient>
+    <linearGradient id="btnGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5E5CE6"/>
+      <stop offset="100%" stop-color="#0AF0D6"/>
+    </linearGradient>
+    <radialGradient id="glow3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#5E5CE6" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#5E5CE6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="200" fill="#0A0A0F"/>
+  <rect x="20" y="14" width="1160" height="172" rx="20" fill="url(#ctaBg)" stroke="#FFFFFF" stroke-opacity="0.07"/>
+  <circle cx="1080" cy="60" r="220" fill="url(#glow3)"/>
+
+  <text x="56" y="84" font-family="-apple-system,'Inter',sans-serif" font-size="32" font-weight="600" letter-spacing="-0.5" fill="#F5F5F7">Let's build something great.</text>
+  <text x="56" y="118" font-family="-apple-system,'Inter',sans-serif" font-size="16" fill="#8E8E93">Open to freelance, full-time roles &amp; collaborations.</text>
+
+  <!-- Email button -->
+  <rect x="56" y="142" width="130" height="40" rx="20" fill="url(#btnGrad)"/>
+  <text x="121" y="167" text-anchor="middle" font-family="-apple-system,'Inter',sans-serif" font-size="14" font-weight="600" fill="#0A0A0F">Email Me</text>
+
+  <!-- LinkedIn pill -->
+  <rect x="200" y="142" width="110" height="40" rx="20" fill="none" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  <text x="255" y="167" text-anchor="middle" font-family="-apple-system,'Inter',sans-serif" font-size="14" fill="#F5F5F7">LinkedIn</text>
+
+  <!-- Portfolio pill -->
+  <rect x="324" y="142" width="110" height="40" rx="20" fill="none" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  <text x="379" y="167" text-anchor="middle" font-family="-apple-system,'Inter',sans-serif" font-size="14" fill="#F5F5F7">Portfolio</text>
+
+  <!-- Buy a chai pill -->
+  <rect x="448" y="142" width="170" height="40" rx="20" fill="none" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  <text x="533" y="167" text-anchor="middle" font-family="-apple-system,'Inter',sans-serif" font-size="14" fill="#F5F5F7">Buy me a chai ☕</text>
+</svg>
