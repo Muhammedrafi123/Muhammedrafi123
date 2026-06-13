@@ -37,9 +37,7 @@
 
 </div>
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammedrafi123&bg_color=0A0A0F&color=0AF0D6&line=5E5CE6&point=F5F5F7&area=true&hide_border=true&radius=16" width="100%" alt="Contribution activity" />
 
 </div>
 
@@ -78,6 +76,6 @@
 
 <br/><br/>
 
-<sub>Designed with a custom dark UI system · views &amp; metrics above are stylised, not live counters</sub>
+
 
 </div>
