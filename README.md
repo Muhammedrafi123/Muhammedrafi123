@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.svg" width="100%" alt="Muhemmed Rafi — Full-stack developer" />
+<img src="./assets/hero.svg" width="100%" alt="Muhemmed Rafi — Full-stack developer" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="metrics.svg" width="100%" alt="Profile metrics" />
+<img src="./assets/metrics.svg" width="100%" alt="Profile metrics" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="focus.svg" width="100%" alt="Focus areas" />
+<img src="./assets/focus.svg" width="100%" alt="Focus areas" />
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="stack.svg" width="100%" alt="Tech stack" />
+<img src="./assets/stack.svg" width="100%" alt="Tech stack" />
 
 </div>
 
@@ -36,14 +36,6 @@
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhammedrafi123&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=5E5CE6&text_color=F5F5F7&border_radius=16&langs_count=6" alt="Top languages" />
 
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammedrafi123&bg_color=0A0A0F&color=0AF0D6&line=5E5CE6&point=F5F5F7&area=true&hide_border=true&radius=16" width="100%" alt="Contribution activity" />
-
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -59,7 +51,7 @@
 
 <div align="center">
 
-<img src="footer.svg" width="100%" alt="Let's build something great" />
+<img src="./assets/footer.svg" width="100%" alt="Let's build something great" />
 
 <br/><br/>
 
