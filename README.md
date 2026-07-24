@@ -1,33 +1,3 @@
-<!-- 
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  PROFILE README — Muhammed Rafi                              ║
-  ║  Dark/Light aware • Minimal • Content-forward                ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
-<div align="center">
-
-<!-- Animated typing header — reliable, no external SVGs needed -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=5E5CE6&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rafi+%F0%9F%91%8B;Full-Stack+Developer;Building+things+that+scale;Open+Source+Contributor" alt="Typing header" />
-</a>
-
-<br/>
-
-<!-- Subtitle with gradient feel using shields -->
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-5E5CE6?style=flat-square&labelColor=0A0A0F" />
-<img src="https://img.shields.io/badge/Location-India-0AF0D6?style=flat-square&labelColor=0A0A0F" />
-<img src="https://img.shields.io/badge/Portfolio-vellmont.online-5E5CE6?style=flat-square&labelColor=0A0A0F" />
-
-</div>
-
-<br/>
-
-<!-- About section with actual substance -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
-
-```diff
-@@ Full-stack developer crafting digital experiences @@
 I'm a developer who sits at the intersection of clean architecture and pixel-perfect UI. I don't just write code — I engineer systems that are maintainable, scalable, and actually pleasant to use.
 🔭 Currently shipping products at vellmont.online
 🧠 Deep into system design, cloud infrastructure, and modern frontend patterns
